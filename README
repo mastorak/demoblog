@@ -1,0 +1,13 @@
+MongoDB + Spring MVC + JQuery Itegration demo
+
+This is a MongoDB + Spring MVC + JQuery integration demo web-app.
+It is a simple blog that allows the user to read, create, edit and delete posts  
+
+Spring-data-mongodb is used to create the factory/connection for MongoDB but is not used for MongoDB CRUD templating.
+MongoDB CRUD operations are implemented using the MongoDB Java driver.
+Spring MVC is used to expose Controller methods as REST services.
+JQuery ajax functions are used for calls to the REST services.
+Data JSON serialization/deserialization is done using Jackson.
+Simple beautification is done using bootstrap.
+Dependencies are handled using Maven. 
+Dependencies versioning is handled by Spring IO Platform.
