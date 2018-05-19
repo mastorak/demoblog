@@ -1,4 +1,4 @@
-MongoDB + Spring MVC + JQuery Itegration demo
+MongoDB + Spring MVC + JQuery Integration demo
 
 This is a MongoDB + Spring MVC + JQuery integration demo web-app.
 It is a simple blog that allows the user to read, create, edit and delete posts  
